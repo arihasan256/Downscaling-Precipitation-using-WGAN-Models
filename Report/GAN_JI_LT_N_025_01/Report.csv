@@ -1,0 +1,32 @@
+Model name             : GAN 
+Number of epochs       : 200 
+Batch size             : 32 
+Train dataset size     : (5114, 32, 96, 1) 
+Test dataset size      : (1095, 32, 96, 1) 
+Val dataset size       : (1096, 32, 96, 1) 
+Folder Reports         : d:\UNIVERSITAS INDONESIA\BMKG Research 3 - 2025.PrecipitationProjection\Hasan.Code\Reports\GAN_JI_LT_N_025_01V3 
+Total training time    : 18.475828512509665 minutes 
+RMSE Train             : 2.7038884 
+RMSE Val               : 3.531304 
+RMSE Test              : 3.3976698 
+R2 score Train         : 0.908835232257843 
+R2 score Val           : 0.8572574853897095 
+R2 score Test          : 0.876789927482605 
+Cosine Similarity Train: 0.9057592 
+Cosine Similarity Val  : 0.9165771 
+Cosine Similarity Test : 0.87440085 
+Mean Absolute Error Train: 1.1871816 
+Mean Absolute Error Val  : 1.5216511 
+Mean Absolute Error Test : 1.3194468 
+Mean Absolute Percentage Error Train: 1039538.6 
+Mean Absolute Percentage Error Val  : 1336613.4 
+Mean Absolute Percentage Error Test : 1608004.6 
+Mean Squared Error Train: 7.3110127 
+Mean Squared Error Val  : 12.470107 
+Mean Squared Error Test : 11.54416 
+Peak Signal-to-Noise Ratio Train: 53.015717 
+Peak Signal-to-Noise Ratio Val  : 48.57466 
+Peak Signal-to-Noise Ratio Test : 51.300163 
+Structural Similarity Index Train: 0.98369306 
+Structural Similarity Index Val  : 0.9686754 
+Structural Similarity Index Test : 0.97496957 
