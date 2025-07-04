@@ -2,8 +2,11 @@
 This is a source code for my undergraduate thesis project called Development of Downscaling Wasserstein Generative Adversarial  Networks (WGAN) to Improve Spatial Resolution of Java Island Low  Rainfall Projections Using NEX-GDDP-CMIP6 MIROC6 GCM Model.
 
 The sample script used to do this project is contained in the Python file, in this GAN model I use 2 different Generator architectures, the first using the UNET architecture as follows:
+
 ![image](https://github.com/user-attachments/assets/7194704d-f85e-45a2-a4da-60d9179a795b)
+
 and UNET++ architecture as follows:
+
 ![image](https://github.com/user-attachments/assets/195930e4-456e-468e-8c63-cbc8ba30e66a)
 
 The dataset used to train the model is the MSWEP (Multi-Source Weighted-Ensemble Precipitation) dataset which can be obtained from the official MSWEP website below https://www.gloh2o.org/mswep/ .
