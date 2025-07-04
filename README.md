@@ -1,6 +1,7 @@
 # Downscaling-Precipitation-using-WGAN-Models
 This repository contains the source code for my undergraduate thesis project titled:
 **“Development of Downscaling Wasserstein Generative Adversarial Networks (WGAN) to Improve the Spatial Resolution of Low Rainfall Projections over Java Island Using NEX-GDDP-CMIP6 MIROC6 GCM Data.”**
+
 The Python scripts in this repository demonstrate the implementation of the project. In this GAN model, I used two different generator architectures:
 1. U-Net architecture:
 ![image](https://github.com/user-attachments/assets/7194704d-f85e-45a2-a4da-60d9179a795b)
