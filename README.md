@@ -14,7 +14,8 @@ The dataset used for training is the MSWEP (Multi-Source Weighted-Ensemble Preci
 Once trained, the models can take low-resolution GCM data as input and perform downscaling to produce high-resolution outputs at 0.1° (approximately 11.1 km).
 
 The image below shows a comparison of the downscaling results produced by the models:
-![6 Example](https://github.com/user-attachments/assets/838ed6a0-381f-48ac-9098-6a41c1666666)
+![6 Example](https://github.com/user-attachments/assets/be35ecc2-7b95-4ba4-9407-7bce3d67adcd)
+
 
 
 
